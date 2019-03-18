@@ -1,6 +1,6 @@
 
 #
-# Copyright (C) 2018 The TwrpBuilder Open-Source Project
+# Copyright (C) 2019 The TwrpBuilder Open-Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,6 +15,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/oppo/cph1859/
+LOCAL_PATH := device/oppo/cph1861/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_cph1859.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_cph1861.mk
