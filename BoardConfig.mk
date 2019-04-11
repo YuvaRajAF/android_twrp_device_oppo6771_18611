@@ -14,10 +14,10 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/oppo/cph1861
+LOCAL_PATH := device/oppo/oppo6771_18611
 
 TARGET_BOARD_PLATFORM := mt6771
-TARGET_BOOTLOADER_BOARD_NAME := cph1861
+TARGET_BOOTLOADER_BOARD_NAME := oppo6771_18611
 
 # Recovery
 TARGET_USERIMAGES_USE_EXT4 := true
