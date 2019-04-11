@@ -1,3 +1,3 @@
-# android_device_oppo_cph1861
+# android_device_oppo6771_18611
 
-Twrp Tree for Oppo Realme 1.
+Twrp Tree for Oppo Realme U1.
