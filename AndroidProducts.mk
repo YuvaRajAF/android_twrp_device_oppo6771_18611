@@ -15,6 +15,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/oppo/cph1861/
+LOCAL_PATH := device/oppo/oppo6771_18611/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_cph1861.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_oppo6771_18611.mk
