@@ -14,10 +14,10 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/oppo/oppo6771_18611
+LOCAL_PATH := device/realme/RMX1831
 
-TARGET_BOARD_PLATFORM := mt6771
-TARGET_BOOTLOADER_BOARD_NAME := oppo6771_18611
+TARGET_BOARD_PLATFORM := 
+TARGET_BOOTLOADER_BOARD_NAME := 
 
 # Recovery
 TARGET_USERIMAGES_USE_EXT4 := true
@@ -27,8 +27,5 @@ BOARD_HAS_NO_REAL_SDCARD := true
 BOARD_SUPPRESS_SECURE_ERASE := 
 BOARD_HAS_NO_MISC_PARTITION := 
 BOARD_RECOVERY_SWIPE := true
-BOARD_USES_MMCUTILS := 
-BOARD_SUPPRESS_EMMC_WIPE := 
-TW_INPUT_BLACKLIST := 
-include $(LOCAL_PATH)/kernel.mk
+ include $(LOCAL_PATH)/kernel.mk
 include device/generic/twrpbuilder/BoardConfig64.mk
