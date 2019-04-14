@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/realme/RMX1831
+LOCAL_PATH := device/oppo/RMX1831
 
 TARGET_BOARD_PLATFORM := 
 TARGET_BOOTLOADER_BOARD_NAME := 
