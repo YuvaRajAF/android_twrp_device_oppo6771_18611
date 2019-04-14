@@ -16,7 +16,7 @@
 
 ifneq ($(filter cph1859,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/oppo/cph1861/
+LOCAL_PATH := device/oppo/RMX1831/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
