@@ -15,6 +15,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/oppo/oppo6771_18611/
+LOCAL_PATH := device/oppo/RMX1831
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_oppo6771_18611.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_RMX1831.mk
