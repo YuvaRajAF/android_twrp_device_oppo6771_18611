@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifneq ($(filter cph1859,$(TARGET_DEVICE)),)
+ifneq ($(filter RMX1831,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := device/oppo/RMX1831/
 
